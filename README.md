@@ -1,4 +1,4 @@
-### Grocery List App
+# Grocery List App
 ## Overview
 This simple React app, named "Grocery List App," allows users to manage their grocery shopping list. The app features a clean and straightforward layout with images for visual appeal.
 
