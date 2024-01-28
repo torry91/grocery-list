@@ -1,6 +1,7 @@
 # Grocery List App
 ## Overview
 This simple React app, named "Grocery List App," allows users to manage their grocery shopping list. The app features a clean and straightforward layout with images for visual appeal.
+<img width="672" alt="Screenshot 2024-01-27 at 20 23 14" src="https://github.com/torry91/grocery-list/assets/149702982/d32d528f-06e2-4441-876c-f3f4a6143b09">
 
 ## Features
 Display Images: The app displays two images within containers to enhance the visual appeal of the interface.
